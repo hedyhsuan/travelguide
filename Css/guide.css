@@ -4,7 +4,7 @@
       background-image: url("https://www.kcmt.org.tw/img/slider04.jpg");
       background-size:cover;
       /* background-repeat: no-repeat; */
-       background-position:center 0;
+       background-position:center center;
       width:1024px;
       height:380px;
     /*   background-size: cover; */
