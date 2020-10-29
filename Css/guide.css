@@ -42,6 +42,13 @@
        
       
     }
+
+     .btn-block{
+     display: block;
+     width: 100%;
+
+    }
+
     .main{
       border-top: dashed ;
       border-width:2px; 
